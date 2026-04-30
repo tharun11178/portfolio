@@ -1,0 +1,7 @@
+Django>=4.2,<6.0
+wagtail==6.4
+django-colorfield
+django-widget-tweaks
+dj-database-url
+whitenoise
+gunicorn
