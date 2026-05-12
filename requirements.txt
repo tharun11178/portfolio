@@ -5,3 +5,5 @@ django-widget-tweaks
 dj-database-url
 whitenoise
 gunicorn
+cloudinary
+cloudinary-storage
